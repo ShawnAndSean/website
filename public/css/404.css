@@ -1,0 +1,14 @@
+.error-image {
+    display: block;
+    margin: 60px auto;
+}
+
+.error-image-msg {
+    text-align: center;
+    text-transform: capitalize;
+    color: #383838;
+}
+
+.error-image-msg a {
+    color: #383838;
+}
